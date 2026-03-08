@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     #Update this with your Beanstalk URL when you are ready to connect your Frontend + Backend in step 3.8. Dont include the "/" at the end of the URL
-    REACT_APP_API_BASE_URL: "http://{beanstalk-backend}.elasticbeanstalk.com"
+    REACT_APP_API_BASE_URL: "http://Mp4-backend3-env.eba-i4m7v4xj.us-east-1.elasticbeanstalk.com"
 
 phases:
   install:
